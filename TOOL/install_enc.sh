@@ -22,7 +22,7 @@ export BLUEBG='\033[44m';
 
 clear
 mkdir ./scvpn_data > /dev/null 2>&1
-license='VISIT-netvpnproject.me-234QW'
+license='VISIT-www.dotycat.com-234QW'
 
 echo -e "$BLUE┌─────────────────────────────────────────────────┐${NC}"
 echo -e "$BLUE│${NC} ${BLUEBG}                • License Key •                ${NC} $BLUE│$NC"
