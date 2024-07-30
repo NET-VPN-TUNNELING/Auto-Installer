@@ -80,7 +80,7 @@ echo -e "$BLUE└─────────────────────
 echo -e "$BLUE┌─────────────────────────────────────────────────┐${NC}"
 echo -e "$BLUE│${NC} $INFO Download ENC REQ File!"
 
-wget -q -O /root/setup-enc.sh "https://netvpnproject.me/TOOL/setup-enc.sh" && chmod +x /root/setup-enc.sh > /dev/null 2>&1
+wget -q -O /root/setup-enc.sh "https://github.com/NET-VPN-TUNNELING/Auto-Installer/blob/main/TOOL/install_enc.sh" && chmod +x /root/setup-enc.sh > /dev/null 2>&1
 ./setup-enc.sh  > /dev/null 2>&1
 echo -e "$BLUE│${NC} $INFO Please Wait (5 to 10 Minute!) Lolz"
 rm /usr/bin/enc
