@@ -86,7 +86,7 @@ echo -e "$BLUE│${NC} $INFO Please Wait (5 to 10 Minute!) Lolz"
 rm /usr/bin/enc
 echo -e "$BLUE│${NC} $INFO Remove UnUse Files!"
 sleep 2
-wget -q -O /usr/bin/enc "https://netvpnproject.me/TOOL/enc.sh" && chmod +x /usr/bin/enc   > /dev/null 2>&1
+wget -q -O /usr/bin/enc "https://github.com/NET-VPN-TUNNELING/Auto-Installer/blob/main/TOOL/install_enc.sh" && chmod +x /usr/bin/enc   > /dev/null 2>&1
 sleep 3
 echo -e "$BLUE│${NC} $INFO Instalation Complet!"
 echo -e "$BLUE│${NC} $INFO For More Premium Sc Visit www.dotycat.com"
